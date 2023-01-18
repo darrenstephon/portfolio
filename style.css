@@ -356,9 +356,51 @@ h5 {
     height: 400px;
     display: list-item;
 }
-
-
-
+.contactme {
+    margin: 5px;
+    padding: 40px;
+}
+.box6 {
+    padding: 10px;
+    margin: 30px;
+    display: block;
+}
+h2 {
+    font-size: 17px;
+    color: #8860d0;
+}
+input {
+    width: 400px;
+    height: 30px;
+    background-color: #c1c8e4;
+    /* color: deeppink; */
+}
+textarea {
+    width: 400px;
+    height: 200px;
+    background-color: #c1c8e4;
+}
+.conta {
+    color: deeppink;
+}
+.button {
+    width: 100px;
+    color: deeppink;
+    border-radius: 10px;
+    transition: .10s linear;
+    border: 3px #8860d0 solid;
+}
+.button:hover {
+    transform: rotate(-10deg);
+    background-color: #e3afbc;
+    color: #8860d0;
+    z-index: 2;
+}
+svg {
+    width: 50px;
+    height: 50px;
+    color: #8860d0;
+}
 
 
 
